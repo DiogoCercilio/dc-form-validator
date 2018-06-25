@@ -1,0 +1,11 @@
+{
+  "name": "dc-form-validator",
+  "version": "1.0.0",
+  "description": "A Form Validator using only Vanilla Javascript. Support IE9+",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diogo Cercilio",
+  "license": "ISC"
+}
